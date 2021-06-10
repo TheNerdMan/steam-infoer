@@ -1,0 +1,2140 @@
+{
+  "gamesList": {
+    "steamID64": "76561198097576111",
+    "steamID": {
+      "#cdata-section": "TheNerdman"
+    },
+    "games": {
+      "game": [                  
+          {
+            "appID": "755790",
+            "name": {
+              "#cdata-section": "Ring of Elysium"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/755790/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/755790"
+            },
+            "hoursOnRecord": "7.5"
+          },
+          {
+            "appID": "35450",
+            "name": {
+              "#cdata-section": "Rising Storm/Red Orchestra 2 Multiplayer"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/35450/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/35450"
+            },
+            "hoursOnRecord": "1.8",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/RedOrchestra2"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/RedOrchestra2/achievements/"
+            }
+          },
+          {
+            "appID": "632360",
+            "name": {
+              "#cdata-section": "Risk of Rain 2"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/632360/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/632360"
+            },
+            "hoursOnRecord": "24.8",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/632360"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/632360/achievements/"
+            }
+          },
+          {
+            "appID": "383980",
+            "name": {
+              "#cdata-section": "Rivals of Aether"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/383980/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/383980"
+            },
+            "hoursOnRecord": "2.9",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/383980"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/383980/achievements/"
+            }
+          },
+          {
+            "appID": "301520",
+            "name": {
+              "#cdata-section": "Robocraft"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/301520/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/301520"
+            },
+            "hoursOnRecord": "1.8",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/301520"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/301520/achievements/"
+            }
+          },
+          {
+            "appID": "252950",
+            "name": {
+              "#cdata-section": "Rocket League"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/252950/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/252950"
+            },
+            "hoursOnRecord": "28.3",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/252950"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/252950/achievements/"
+            }
+          },
+          {
+            "appID": "252490",
+            "name": {
+              "#cdata-section": "Rust"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/252490"
+            },
+            "hoursOnRecord": "199.5",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/252490"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/252490/achievements/"
+            }
+          },
+          {
+            "appID": "700580",
+            "name": {
+              "#cdata-section": "Rust - Staging Branch"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/700580/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/700580"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/700580"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/700580/achievements/"
+            }
+          },
+          {
+            "appID": "206420",
+            "name": {
+              "#cdata-section": "Saints Row IV"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/206420/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/206420"
+            },
+            "hoursOnRecord": "5.7",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/SaintsRowIV"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/SaintsRowIV/achievements/"
+            }
+          },
+          {
+            "appID": "555880",
+            "name": {
+              "#cdata-section": "Sairento VR"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/555880/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/555880"
+            },
+            "hoursOnRecord": "0.4",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/555880"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/555880/achievements/"
+            }
+          },
+          {
+            "appID": "91600",
+            "name": {
+              "#cdata-section": "Sanctum"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/91600/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/91600"
+            },
+            "hoursOnRecord": "3.9",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/Sanctum"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/Sanctum/achievements/"
+            }
+          },
+          {
+            "appID": "210770",
+            "name": {
+              "#cdata-section": "Sanctum 2"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/210770/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/210770"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/Sanctum2"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/Sanctum2/achievements/"
+            }
+          },
+          {
+            "appID": "526870",
+            "name": {
+              "#cdata-section": "Satisfactory"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/526870/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/526870"
+            },
+            "hoursOnRecord": "31.5"
+          },
+          {
+            "appID": "700330",
+            "name": {
+              "#cdata-section": "SCP: Secret Laboratory"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/700330/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/700330"
+            },
+            "hoursOnRecord": "4.9",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/700330"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/700330/achievements/"
+            }
+          },
+          {
+            "appID": "301970",
+            "name": {
+              "#cdata-section": "Screencheat"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/301970/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/301970"
+            },
+            "hoursOnRecord": "3.7",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/301970"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/301970/achievements/"
+            }
+          },
+          {
+            "appID": "34270",
+            "name": {
+              "#cdata-section": "SEGA Mega Drive & Genesis Classics"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/34270/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/34270"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/34270"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/34270/achievements/"
+            }
+          },
+          {
+            "appID": "465240",
+            "name": {
+              "#cdata-section": "Serious Sam VR: The Last Hope"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/465240/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/465240"
+            },
+            "hoursOnRecord": "2.4",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/465240"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/465240/achievements/"
+            }
+          },
+          {
+            "appID": "3910",
+            "name": {
+              "#cdata-section": "Sid Meier's Civilization III: Complete"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/3910/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/3910"
+            }
+          },
+          {
+            "appID": "8930",
+            "name": {
+              "#cdata-section": "Sid Meier's Civilization V"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/8930/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/8930"
+            },
+            "hoursOnRecord": "39.0",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/CivV"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/CivV/achievements/"
+            }
+          },
+          {
+            "appID": "235580",
+            "name": {
+              "#cdata-section": "Sid Meier's Civilization V: Brave New World"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/235580/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/235580"
+            }
+          },
+          {
+            "appID": "289070",
+            "name": {
+              "#cdata-section": "Sid Meier's Civilization VI"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/289070"
+            },
+            "hoursOnRecord": "57.7",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/289070"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/289070/achievements/"
+            }
+          },
+          {
+            "appID": "512034",
+            "name": {
+              "#cdata-section": "Sid Meier's Civilization® VI: Australia Civilization & Scenario Pack"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/512034/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/512034"
+            }
+          },
+          {
+            "appID": "512030",
+            "name": {
+              "#cdata-section": "Sid Meier's Civilization® VI: Aztec Civilization Pack"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/512030/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/512030"
+            }
+          },
+          {
+            "appID": "512035",
+            "name": {
+              "#cdata-section": "Sid Meier's Civilization® VI: Persia and Macedon Civilization & Scenario Pack"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/512035/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/512035"
+            }
+          },
+          {
+            "appID": "512033",
+            "name": {
+              "#cdata-section": "Sid Meier's Civilization® VI: Poland Civilization & Scenario Pack"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/512033/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/512033"
+            }
+          },
+          {
+            "appID": "645402",
+            "name": {
+              "#cdata-section": "Sid Meier's Civilization® VI: Rise and Fall"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/645402/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/645402"
+            }
+          },
+          {
+            "appID": "512032",
+            "name": {
+              "#cdata-section": "Sid Meier's Civilization® VI: Vikings Scenario Pack"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/512032/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/512032"
+            }
+          },
+          {
+            "appID": "245170",
+            "name": {
+              "#cdata-section": "Skullgirls 2nd Encore"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/245170/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/245170"
+            },
+            "hoursOnRecord": "0.4",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/Skullgirls"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/Skullgirls/achievements/"
+            }
+          },
+          {
+            "appID": "208610",
+            "name": {
+              "#cdata-section": "Skullgirls ∞Endless Beta∞"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/208610/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/208610"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/SkullgirlsBeta"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/SkullgirlsBeta/achievements/"
+            }
+          },
+          {
+            "appID": "238090",
+            "name": {
+              "#cdata-section": "Sniper Elite 3"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/238090/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/238090"
+            },
+            "hoursOnRecord": "7.0",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/238090"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/238090/achievements/"
+            }
+          },
+          {
+            "appID": "63380",
+            "name": {
+              "#cdata-section": "Sniper Elite V2"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/63380/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/63380"
+            },
+            "hoursOnRecord": "16.8",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/SniperEliteV2"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/SniperEliteV2/achievements/"
+            }
+          },
+          {
+            "appID": "1840",
+            "name": {
+              "#cdata-section": "Source Filmmaker"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/1840/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/1840"
+            },
+            "hoursOnRecord": "0.3"
+          },
+          {
+            "appID": "228020",
+            "name": {
+              "#cdata-section": "Spacebase DF-9 Prototype"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/228020/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/228020"
+            }
+          },
+          {
+            "appID": "244850",
+            "name": {
+              "#cdata-section": "Space Engineers"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/244850/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/244850"
+            },
+            "hoursOnRecord": "7.2",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/244850"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/244850/achievements/"
+            }
+          },
+          {
+            "appID": "50300",
+            "name": {
+              "#cdata-section": "Spec Ops: The Line"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/50300/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/50300"
+            },
+            "hoursOnRecord": "1.1",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/SpecOpsTheLine"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/SpecOpsTheLine/achievements/"
+            }
+          },
+          {
+            "appID": "677620",
+            "name": {
+              "#cdata-section": "Splitgate: Arena Warfare"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/677620/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/677620"
+            },
+            "hoursOnRecord": "0.2",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/677620"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/677620/achievements/"
+            }
+          },
+          {
+            "appID": "211820",
+            "name": {
+              "#cdata-section": "Starbound"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/211820/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/211820"
+            },
+            "hoursOnRecord": "120.1",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/211820"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/211820/achievements/"
+            }
+          },
+          {
+            "appID": "367540",
+            "name": {
+              "#cdata-section": "Starbound - Unstable"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/367540/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/367540"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/367540"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/367540/achievements/"
+            }
+          },
+          {
+            "appID": "413150",
+            "name": {
+              "#cdata-section": "Stardew Valley"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/413150"
+            },
+            "hoursOnRecord": "0.9",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/413150"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/413150/achievements/"
+            }
+          },
+          {
+            "appID": "527100",
+            "name": {
+              "#cdata-section": "Star Trek: Bridge Crew"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/527100/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/527100"
+            }
+          },
+          {
+            "appID": "6060",
+            "name": {
+              "#cdata-section": "Star Wars: Battlefront 2 (Classic, 2005)"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/6060/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/6060"
+            },
+            "hoursOnRecord": "3.0"
+          },
+          {
+            "appID": "1222730",
+            "name": {
+              "#cdata-section": "STAR WARS™: Squadrons"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222730/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/1222730"
+            },
+            "hoursOnRecord": "2.8",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/1222730"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/1222730/achievements/"
+            }
+          },
+          {
+            "appID": "6030",
+            "name": {
+              "#cdata-section": "STAR WARS™ Jedi Knight II: Jedi Outcast™"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/6030/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/6030"
+            },
+            "hoursOnRecord": "3.3"
+          },
+          {
+            "appID": "6000",
+            "name": {
+              "#cdata-section": "STAR WARS™ Republic Commando"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/6000/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/6000"
+            },
+            "hoursOnRecord": "2.4"
+          },
+          {
+            "appID": "329430",
+            "name": {
+              "#cdata-section": "State of Decay: Year-One"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/329430/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/329430"
+            },
+            "hoursOnRecord": "2.3",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/329430"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/329430/achievements/"
+            }
+          },
+          {
+            "appID": "322190",
+            "name": {
+              "#cdata-section": "SteamWorld Heist"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/322190/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/322190"
+            },
+            "hoursOnRecord": "3.4",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/322190"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/322190/achievements/"
+            }
+          },
+          {
+            "appID": "285270",
+            "name": {
+              "#cdata-section": "Steed Prototype"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/285270/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/285270"
+            }
+          },
+          {
+            "appID": "674940",
+            "name": {
+              "#cdata-section": "Stick Fight: The Game"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/674940/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/674940"
+            },
+            "hoursOnRecord": "1.7",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/674940"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/674940/achievements/"
+            }
+          },
+          {
+            "appID": "209120",
+            "name": {
+              "#cdata-section": "Street Fighter X Tekken"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/209120/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/209120"
+            }
+          },
+          {
+            "appID": "235210",
+            "name": {
+              "#cdata-section": "Strider"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/235210/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/235210"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/235210"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/235210/achievements/"
+            }
+          },
+          {
+            "appID": "232890",
+            "name": {
+              "#cdata-section": "Stronghold Crusader 2"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/232890/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/232890"
+            },
+            "hoursOnRecord": "0.6",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/232890"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/232890/achievements/"
+            }
+          },
+          {
+            "appID": "617830",
+            "name": {
+              "#cdata-section": "SUPERHOT VR"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/617830/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/617830"
+            },
+            "hoursOnRecord": "0.9",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/617830"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/617830/achievements/"
+            }
+          },
+          {
+            "appID": "40800",
+            "name": {
+              "#cdata-section": "Super Meat Boy"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/40800/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/40800"
+            },
+            "hoursOnRecord": "1.8",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/SuperMeatBoy"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/SuperMeatBoy/achievements/"
+            }
+          },
+          {
+            "appID": "104700",
+            "name": {
+              "#cdata-section": "Super Monday Night Combat"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/104700/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/104700"
+            },
+            "hoursOnRecord": "0.4",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/104700"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/104700/achievements/"
+            }
+          },
+          {
+            "appID": "9420",
+            "name": {
+              "#cdata-section": "Supreme Commander: Forged Alliance"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/9420/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/9420"
+            },
+            "hoursOnRecord": "57.5"
+          },
+          {
+            "appID": "518920",
+            "name": {
+              "#cdata-section": "Surgeon Simulator: Experience Reality"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/518920/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/518920"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/518920"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/518920/achievements/"
+            }
+          },
+          {
+            "appID": "833090",
+            "name": {
+              "#cdata-section": "Swords of Gurrah"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/833090/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/833090"
+            }
+          },
+          {
+            "appID": "868150",
+            "name": {
+              "#cdata-section": "Takelings House Party"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/868150/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/868150"
+            },
+            "hoursOnRecord": "0.2"
+          },
+          {
+            "appID": "440",
+            "name": {
+              "#cdata-section": "Team Fortress 2"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/440/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/440"
+            },
+            "hoursOnRecord": "77.8",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/TF2"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/TF2/achievements/"
+            }
+          },
+          {
+            "appID": "20",
+            "name": {
+              "#cdata-section": "Team Fortress Classic"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/20/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/20"
+            }
+          },
+          {
+            "appID": "105600",
+            "name": {
+              "#cdata-section": "Terraria"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/105600"
+            },
+            "hoursOnRecord": "7.4",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/105600"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/105600/achievements/"
+            }
+          },
+          {
+            "appID": "65930",
+            "name": {
+              "#cdata-section": "The Bureau: XCOM Declassified"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/65930/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/65930"
+            },
+            "hoursOnRecord": "1.1",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/65930"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/65930/achievements/"
+            }
+          },
+          {
+            "appID": "67370",
+            "name": {
+              "#cdata-section": "The Darkness II"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/67370/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/67370"
+            },
+            "hoursOnRecord": "1.9",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/67370"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/67370/achievements/"
+            }
+          },
+          {
+            "appID": "306130",
+            "name": {
+              "#cdata-section": "The Elder Scrolls Online"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/306130/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/306130"
+            },
+            "hoursOnRecord": "11.6"
+          },
+          {
+            "appID": "582880",
+            "name": {
+              "#cdata-section": "The Elder Scrolls Online - Morrowind"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/582880/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/582880"
+            }
+          },
+          {
+            "appID": "242760",
+            "name": {
+              "#cdata-section": "The Forest"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/242760"
+            },
+            "hoursOnRecord": "15.2",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/242760"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/242760/achievements/"
+            }
+          },
+          {
+            "appID": "331670",
+            "name": {
+              "#cdata-section": "The Jackbox Party Pack"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/331670/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/331670"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/331670"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/331670/achievements/"
+            }
+          },
+          {
+            "appID": "397460",
+            "name": {
+              "#cdata-section": "The Jackbox Party Pack 2"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/397460/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/397460"
+            },
+            "hoursOnRecord": "5.2",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/397460"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/397460/achievements/"
+            }
+          },
+          {
+            "appID": "434170",
+            "name": {
+              "#cdata-section": "The Jackbox Party Pack 3"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/434170/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/434170"
+            },
+            "hoursOnRecord": "33.2",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/434170"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/434170/achievements/"
+            }
+          },
+          {
+            "appID": "610180",
+            "name": {
+              "#cdata-section": "The Jackbox Party Pack 4"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/610180/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/610180"
+            },
+            "hoursOnRecord": "3.0",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/610180"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/610180/achievements/"
+            }
+          },
+          {
+            "appID": "450390",
+            "name": {
+              "#cdata-section": "The Lab"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/450390/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/450390"
+            },
+            "hoursOnRecord": "1.2",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/450390"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/450390/achievements/"
+            }
+          },
+          {
+            "appID": "640590",
+            "name": {
+              "#cdata-section": "The LEGO® NINJAGO® Movie Video Game"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/640590/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/640590"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/640590"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/640590/achievements/"
+            }
+          },
+          {
+            "appID": "305620",
+            "name": {
+              "#cdata-section": "The Long Dark"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/305620/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/305620"
+            },
+            "hoursOnRecord": "20.1",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/305620"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/305620/achievements/"
+            }
+          },
+          {
+            "appID": "578650",
+            "name": {
+              "#cdata-section": "The Outer Worlds"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/578650/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/578650"
+            },
+            "hoursOnRecord": "13.6",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/578650"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/578650/achievements/"
+            }
+          },
+          {
+            "appID": "1393110",
+            "name": {
+              "#cdata-section": "The Outer Worlds: Peril on Gorgon"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/1393110/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/1393110"
+            }
+          },
+          {
+            "appID": "1425450",
+            "name": {
+              "#cdata-section": "The Outer Worlds Expansion Pass"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/1425450/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/1425450"
+            }
+          },
+          {
+            "appID": "1425430",
+            "name": {
+              "#cdata-section": "The Outer Worlds Soundtrack"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/1425430/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/1425430"
+            }
+          },
+          {
+            "appID": "2400",
+            "name": {
+              "#cdata-section": "The Ship"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/2400/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/2400"
+            }
+          },
+          {
+            "appID": "2420",
+            "name": {
+              "#cdata-section": "The Ship Single Player"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/2420/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/2420"
+            },
+            "hoursOnRecord": "0.3"
+          },
+          {
+            "appID": "2430",
+            "name": {
+              "#cdata-section": "The Ship Tutorial"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/2430/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/2430"
+            }
+          },
+          {
+            "appID": "916840",
+            "name": {
+              "#cdata-section": "The Walking Dead: Saints & Sinners"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/916840/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/916840"
+            },
+            "hoursOnRecord": "3.0",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/916840"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/916840/achievements/"
+            }
+          },
+          {
+            "appID": "292030",
+            "name": {
+              "#cdata-section": "The Witcher 3: Wild Hunt"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/292030"
+            },
+            "hoursOnRecord": "5.6",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/292030"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/292030/achievements/"
+            }
+          },
+          {
+            "appID": "355880",
+            "name": {
+              "#cdata-section": "The Witcher 3: Wild Hunt - Expansion Pass"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/355880/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/355880"
+            }
+          },
+          {
+            "appID": "378646",
+            "name": {
+              "#cdata-section": "The Witcher 3: Wild Hunt - New Finisher Animations"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/378646/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/378646"
+            }
+          },
+          {
+            "appID": "20900",
+            "name": {
+              "#cdata-section": "The Witcher: Enhanced Edition"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/20900/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/20900"
+            }
+          },
+          {
+            "appID": "286080",
+            "name": {
+              "#cdata-section": "Thinking with Time Machine"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/286080/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/286080"
+            },
+            "hoursOnRecord": "0.5"
+          },
+          {
+            "appID": "282070",
+            "name": {
+              "#cdata-section": "This War of Mine"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/282070/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/282070"
+            },
+            "hoursOnRecord": "1.4",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/282070"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/282070/achievements/"
+            }
+          },
+          {
+            "appID": "354350",
+            "name": {
+              "#cdata-section": "This War of Mine Soundtrack"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/354350/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/354350"
+            }
+          },
+          {
+            "appID": "220780",
+            "name": {
+              "#cdata-section": "Thomas Was Alone"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/220780/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/220780"
+            },
+            "hoursOnRecord": "4.9",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/220780"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/220780/achievements/"
+            }
+          },
+          {
+            "appID": "510620",
+            "name": {
+              "#cdata-section": "THOTH"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/510620/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/510620"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/510620"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/510620/achievements/"
+            }
+          },
+          {
+            "appID": "205910",
+            "name": {
+              "#cdata-section": "Tiny and Big: Grandpa's Leftovers"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/205910/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/205910"
+            },
+            "hoursOnRecord": "0.9",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/TinyandBigGrandpasLeftovers"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/TinyandBigGrandpasLeftovers/achievements/"
+            }
+          },
+          {
+            "appID": "272350",
+            "name": {
+              "#cdata-section": "Tom Clancy's Ghost Recon Phantoms - EU"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/272350/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/272350"
+            },
+            "hoursOnRecord": "5.1",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/272350"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/272350/achievements/"
+            }
+          },
+          {
+            "appID": "584210",
+            "name": {
+              "#cdata-section": "Tom Clancy's Ghost Recon Wildlands Open Beta"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/584210/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/584210"
+            },
+            "hoursOnRecord": "0.7"
+          },
+          {
+            "appID": "359550",
+            "name": {
+              "#cdata-section": "Tom Clancy's Rainbow Six Siege"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/359550"
+            },
+            "hoursOnRecord": "297.2"
+          },
+          {
+            "appID": "623990",
+            "name": {
+              "#cdata-section": "Tom Clancy's Rainbow Six Siege - Test Server"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/623990/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/623990"
+            },
+            "hoursOnRecord": "0.3"
+          },
+          {
+            "appID": "248570",
+            "name": {
+              "#cdata-section": "Toribash"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/248570/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/248570"
+            },
+            "hoursOnRecord": "1.3",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/248570"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/248570/achievements/"
+            }
+          },
+          {
+            "appID": "823130",
+            "name": {
+              "#cdata-section": "Totally Accurate Battlegrounds"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/823130/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/823130"
+            },
+            "hoursOnRecord": "2.9"
+          },
+          {
+            "appID": "34330",
+            "name": {
+              "#cdata-section": "Total War: SHOGUN 2"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/34330/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/34330"
+            },
+            "hoursOnRecord": "7.3",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/Shogun2"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/Shogun2/achievements/"
+            }
+          },
+          {
+            "appID": "214360",
+            "name": {
+              "#cdata-section": "Tower Wars"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/214360/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/214360"
+            },
+            "hoursOnRecord": "2.1",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/TowerWars"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/TowerWars/achievements/"
+            }
+          },
+          {
+            "appID": "17080",
+            "name": {
+              "#cdata-section": "Tribes: Ascend"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/17080/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/17080"
+            },
+            "hoursOnRecord": "0.2"
+          },
+          {
+            "appID": "57690",
+            "name": {
+              "#cdata-section": "Tropico 4"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/57690/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/57690"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/tropico4"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/tropico4/achievements/"
+            }
+          },
+          {
+            "appID": "269710",
+            "name": {
+              "#cdata-section": "Tumblestone"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/269710/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/269710"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/269710"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/269710/achievements/"
+            }
+          },
+          {
+            "appID": "689580",
+            "name": {
+              "#cdata-section": "TurnSignal"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/689580/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/689580"
+            },
+            "hoursOnRecord": "4.0"
+          },
+          {
+            "appID": "386940",
+            "name": {
+              "#cdata-section": "Ultimate Chicken Horse"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/386940/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/386940"
+            },
+            "hoursOnRecord": "8.0",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/386940"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/386940/achievements/"
+            }
+          },
+          {
+            "appID": "13230",
+            "name": {
+              "#cdata-section": "Unreal Tournament 2004"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/13230/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/13230"
+            },
+            "hoursOnRecord": "17.2"
+          },
+          {
+            "appID": "858260",
+            "name": {
+              "#cdata-section": "Until You Fall"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/858260/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/858260"
+            },
+            "hoursOnRecord": "3.3",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/858260"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/858260/achievements/"
+            }
+          },
+          {
+            "appID": "304930",
+            "name": {
+              "#cdata-section": "Unturned"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/304930/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/304930"
+            },
+            "hoursOnRecord": "7.1",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/304930"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/304930/achievements/"
+            }
+          },
+          {
+            "appID": "429881",
+            "name": {
+              "#cdata-section": "Unturned - Early Access"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/429881/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/429881"
+            }
+          },
+          {
+            "appID": "246900",
+            "name": {
+              "#cdata-section": "Viscera Cleanup Detail"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/246900/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/246900"
+            },
+            "hoursOnRecord": "2.1",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/246900"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/246900/achievements/"
+            }
+          },
+          {
+            "appID": "265210",
+            "name": {
+              "#cdata-section": "Viscera Cleanup Detail: Santa's Rampage"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/265210/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/265210"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/265210"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/265210/achievements/"
+            }
+          },
+          {
+            "appID": "255520",
+            "name": {
+              "#cdata-section": "Viscera Cleanup Detail: Shadow Warrior"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/255520/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/255520"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/VisceraCleanupDetailShadowWarrior"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/VisceraCleanupDetailShadowWarrior/achievements/"
+            }
+          },
+          {
+            "appID": "438100",
+            "name": {
+              "#cdata-section": "VRChat"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/438100/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/438100"
+            },
+            "hoursOnRecord": "1.6"
+          },
+          {
+            "appID": "291480",
+            "name": {
+              "#cdata-section": "Warface"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/291480/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/291480"
+            },
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/291480"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/291480/achievements/"
+            }
+          },
+          {
+            "appID": "230410",
+            "name": {
+              "#cdata-section": "Warframe"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/230410"
+            },
+            "hoursOnRecord": "23.1",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/Warframe"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/Warframe/achievements/"
+            }
+          },
+          {
+            "appID": "4580",
+            "name": {
+              "#cdata-section": "Warhammer 40,000: Dawn of War - Dark Crusade"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/4580/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/4580"
+            }
+          },
+          {
+            "appID": "4570",
+            "name": {
+              "#cdata-section": "Warhammer 40,000: Dawn of War - Game of the Year Edition"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/4570/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/4570"
+            }
+          },
+          {
+            "appID": "9450",
+            "name": {
+              "#cdata-section": "Warhammer 40,000: Dawn of War - Soulstorm"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/9450/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/9450"
+            },
+            "hoursOnRecord": "3.0"
+          },
+          {
+            "appID": "9310",
+            "name": {
+              "#cdata-section": "Warhammer 40,000: Dawn of War - Winter Assault"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/9310/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/9310"
+            }
+          },
+          {
+            "appID": "55150",
+            "name": {
+              "#cdata-section": "Warhammer 40,000: Space Marine"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/55150/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/55150"
+            },
+            "hoursOnRecord": "1.1",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/SpaceMarine"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/SpaceMarine/achievements/"
+            }
+          },
+          {
+            "appID": "552500",
+            "name": {
+              "#cdata-section": "Warhammer: Vermintide 2"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/552500/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/552500"
+            },
+            "hoursOnRecord": "4.8",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/552500"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/552500/achievements/"
+            }
+          },
+          {
+            "appID": "236390",
+            "name": {
+              "#cdata-section": "War Thunder"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/236390/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/236390"
+            },
+            "hoursOnRecord": "1.2",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/WarThunder"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/WarThunder/achievements/"
+            }
+          },
+          {
+            "appID": "501300",
+            "name": {
+              "#cdata-section": "What Remains of Edith Finch"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/501300/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/501300"
+            },
+            "hoursOnRecord": "1.8",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/501300"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/501300/achievements/"
+            }
+          },
+          {
+            "appID": "326410",
+            "name": {
+              "#cdata-section": "Windward"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/326410/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/326410"
+            },
+            "hoursOnRecord": "2.8",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/326410"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/326410/achievements/"
+            }
+          },
+          {
+            "appID": "445980",
+            "name": {
+              "#cdata-section": "Wizard of Legend"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/445980/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/445980"
+            },
+            "hoursOnRecord": "1.6",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/445980"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/445980/achievements/"
+            }
+          },
+          {
+            "appID": "200510",
+            "name": {
+              "#cdata-section": "XCOM: Enemy Unknown"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/200510/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/200510"
+            },
+            "hoursOnRecord": "0.5",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/XCOMEnemyUnknown"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/XCOMEnemyUnknown/achievements/"
+            }
+          },
+          {
+            "appID": "638970",
+            "name": {
+              "#cdata-section": "Yakuza 0"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/638970/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/638970"
+            },
+            "hoursOnRecord": "1.0",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/638970"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/638970/achievements/"
+            }
+          },
+          {
+            "appID": "601510",
+            "name": {
+              "#cdata-section": "Yu-Gi-Oh! Duel Links"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/601510/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/601510"
+            },
+            "hoursOnRecord": "2.3",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/601510"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/601510/achievements/"
+            }
+          },
+          {
+            "appID": "334920",
+            "name": {
+              "#cdata-section": "Zero-K"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/334920/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/334920"
+            },
+            "hoursOnRecord": "0.6"
+          },
+          {
+            "appID": "877200",
+            "name": {
+              "#cdata-section": "Zero Caliber VR"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/877200/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/877200"
+            },
+            "hoursOnRecord": "0.5"
+          },
+          {
+            "appID": "308420",
+            "name": {
+              "#cdata-section": "Ziggurat"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/308420/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/308420"
+            },
+            "hoursOnRecord": "4.9",
+            "statsLink": {
+              "#cdata-section": "https://steamcommunity.com/id/TheNerdMan/stats/308420"
+            },
+            "globalStatsLink": {
+              "#cdata-section": "https://steamcommunity.com/stats/308420/achievements/"
+            }
+          }
+        ]
+      }
+    },
+    "#omit-xml-declaration": "yes"
+  }

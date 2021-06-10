@@ -1,0 +1,26 @@
+{
+    "gamesList": {
+      "steamID64": "76561198097576111",
+      "steamID": {
+        "#cdata-section": "TheNerdman"
+      },
+      "games": {
+        "game": [
+          {
+            "appID": "552520",
+            "name": {
+              "#cdata-section": "Far Cry 5"
+            },
+            "logo": {
+              "#cdata-section": "https://cdn.cloudflare.steamstatic.com/steam/apps/552520/capsule_184x69.jpg"
+            },
+            "storeLink": {
+              "#cdata-section": "https://steamcommunity.com/app/552520"
+            },
+            "hoursLast2Weeks": "8.8",
+            "hoursOnRecord": "20"
+          }
+        ]
+      }
+    }
+  }

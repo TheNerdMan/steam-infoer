@@ -1,0 +1,2150 @@
+[
+	{
+		"name": "AltspaceVR",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Amnesia: The Dark Descent",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Amnesia Fortnight",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "AER Memories of Old",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Aegis Defenders",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Alien: Isolation",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Hunt: Showdown",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Apex LegendsÔäó",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Aim Lab",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "A-Tech Cybernetic VR",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Bless Online",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "STAR WARSÔäó: The Old RepublicÔäó",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Amnesia: A Machine for Pigs",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+
+	{
+		"name": "Tom Clancy's Rainbow Six┬« Siege - Ruby Weapon Skin",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Blacklight: Retribution",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "6 Seasons and a Game",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Mafia II: Definitive Edition",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Ricochet",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Mafia III: Faster, Baby!",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "140",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Counter-Strike: Source",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Phasmophobia",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Mafia III - Family Kick Back Pack",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Mafia III: Judge, Jury and Executioner Weapon Pack",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+
+	{
+		"name": "Double Fine Adventure: Ep09 - Broken Age",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Grow Home",
+		"windows": true,
+		"mac": false,
+		"linux": true
+	},
+	{
+		"name": "Fallout New Vegas: Honest Hearts",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Layers of Fear",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Fallout 76",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Street Fighter X Tekken",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Evoland 2",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Little Nightmares",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Rampage Knights",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+
+	{
+		"name": "The Ship: Murder Party",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "METAL GEAR SOLID V: GROUND ZEROES",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Zero-K",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Robocraft",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Swords of Gurrah",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "State of Decay: YOSE",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "The Witcher 3: Wild Hunt - Expansion Pass",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "The Ship: Single Player",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "The Witcher 3: Wild Hunt - New Finisher Animations",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Sanctum 2",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "ASTRONEER",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Stick Fight: The Game",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Warhammer 40,000: Space Marine",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "The Witcher┬« 3: Wild Hunt",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+
+	{
+		"name": "Arma II: DayZ Mod",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Cities: Skylines",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Saints Row IV",
+		"windows": true,
+		"mac": false,
+		"linux": true
+	},
+
+	{
+		"name": "Alien Swarm: Reactive Drop",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "LOST PLANET┬« 3",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Blast the Past",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "BattleBlock Theater┬«",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Tower Wars",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Sid Meier's Civilization┬« VI: Vikings Scenario Pack",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "STAR WARSÔäó Republic CommandoÔäó",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Fallout: New Vegas",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Sid Meier's Civilization┬« VI: Poland Civilization & Scenario Pack",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Double Fine Adventure: EP11 - Ship It",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six┬« Siege",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "BioShockÔäó Remastered",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "The Witcher: Enhanced Edition Director's Cut",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Sanctum",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+
+	{
+		"name": "Yakuza 0",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Fallout: A Post Nuclear Role Playing Game",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Double Fine Adventure: Ep05 - ItÔÇÖs Gonna Get Hairy",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Until You Fall",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Double Fine Adventure: Ep06 - That Bagel Filter Thing",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "What Remains of Edith Finch",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Garry's Mod",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "The Walking Dead: Saints & Sinners",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Everything",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Euro Truck Simulator",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Day of the Tentacle Remastered",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Double Fine Adventure: Ep13 - Crash Landing a Plane",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Civilization V - Scrambled Continents Map Pack",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Blackwake",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "War Thunder",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Ultimate Chicken Horse",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Black Mesa",
+		"windows": true,
+		"mac": false,
+		"linux": true
+	},
+	{
+		"name": "Full Throttle Remastered",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+
+	{
+		"name": "Rivals of Aether",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Budget Cuts",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Viscera Cleanup Detail",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Gang Beasts",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Half-Life 2: Deathmatch",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "BlazBlue: Continuum Shift Extend",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+
+	{
+		"name": "Golf With Your Friends",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "BioShock Infinite",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "GNOG",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Half-Life 2: Episode One",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Broken Age",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "GUILTY GEAR Xrd -SIGN-",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Stronghold Crusader 2",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "ARMA: Cold War Assault",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Half-Life 2: Lost Coast",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+
+	{
+		"name": "ArchangelÔäó: Hellfire - Enlist FREE",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "BioShockÔäó",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Battlefield: Bad CompanyÔäó 2",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Fallout 3: Game of the Year Edition",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Sid Meier's Civilization V: Brave New World",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "BioShockÔäó 2 Remastered",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Double Fine Adventure: Ep07 - We'll Handle It",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Nether: Resurrected",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Counter-Strike: Global Offensive",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Sairento VR",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+
+	{
+		"name": "Counter-Strike",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Double Fine Adventure: Ep15 - Evergreen Games",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Warface",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Tumblestone",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "KIDS",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "DOOM 64",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Lara Croft GO",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Brutal Legend",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Horizon Beyond",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Just Cause 2: Multiplayer Mod",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Just Cause 2",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Cortex Command",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Headlander",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Just CauseÔäó 3: Multiplayer Mod",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Grounded",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Galactic Civilizations┬« II: Ultimate Edition",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+
+	{
+		"name": "Dota 2",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Factorio",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Evolve Stage 2",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Jotun: Valhalla Edition",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Estranged: Act I",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Rec Room",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Besiege",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Event[0]",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Half-Life Deathmatch: Source",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Grim Fandango Remastered",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Half-Life 2: Episode Two",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Portal",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Left 4 Dead 2",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Half-Life: Opposing Force",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Grow Up",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Prey: Typhon Hunter",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Coffee Talk",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Half-Life: Source",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Left 4 Dead",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+
+	{
+		"name": "Mafia III: Stones Unturned",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Hotline Miami",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Mad Max",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "DOOM",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Halo: The Master Chief Collection",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Hover",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Red Orchestra 2: Heroes of Stalingrad with Rising Storm",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Half-Life",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "I Expect You To Die",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Grand Theft Auto V",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Hurtworld",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Arcana Heart 3 LOVE MAX!!!!!",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Counter-Strike: Condition Zero",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+
+	{
+		"name": "Counter-Strike: Condition Zero",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Cry of Fear",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Among Us",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Raw Data",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Antenna",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+
+	{ "name": "Cry of Fear", "windows": true, "mac": false, "linux": false },
+	{ "name": "Counter-Strike", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "BattleBlock Theater┬«",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "ArchangelÔäó: Hellfire - Enlist FREE",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Battlefield: Bad CompanyÔäó 2",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Civilization V - Scrambled Continents Map Pack",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "BioShockÔäó Remastered",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Fallout: A Post Nuclear Role Playing Game",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+
+	{
+		"name": "BioShockÔäó 2 Remastered",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "I Expect You To Die",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "The LEGO┬« NINJAGO┬« Movie Video Game",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+
+	{
+		"name": "Sid MeierÔÇÖs Civilization┬« VI",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "KIDS", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Mirror's EdgeÔäó",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Bless Online", "windows": true, "mac": false, "linux": false },
+	{ "name": "ASTRONEER", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Monday Night Combat",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Grim Fandango Remastered",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six┬« Siege - Ruby Weapon Skin",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+
+	{
+		"name": "Mortal Kombat Komplete Edition",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Mafia II: Definitive Edition",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "A Story About My Uncle",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "MASSIVE CHALICE", "windows": true, "mac": true, "linux": true },
+	{ "name": "Hotline Miami", "windows": true, "mac": true, "linux": true },
+	{ "name": "Tower Wars", "windows": true, "mac": true, "linux": false },
+	{
+		"name": "Little Nightmares",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "APB Reloaded", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "The Outer Worlds Expansion Pass",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Just Cause 2", "windows": true, "mac": false, "linux": false },
+	{ "name": "Sanctum", "windows": true, "mac": true, "linux": false },
+	{ "name": "Gang Beasts", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Jotun: Valhalla Edition",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Just CauseÔäó 3",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "The Ship: Murder Party",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Portal", "windows": true, "mac": true, "linux": true },
+	{ "name": "Tropico 4", "windows": true, "mac": false, "linux": false },
+	{ "name": "Portal 2", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "The Witcher 3: Wild Hunt - Expansion Pass",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "TurnSignal", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "The Witcher 3: Wild Hunt - New Finisher Animations",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Thinking with Time Machine",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Toribash", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "STAR WARSÔäó Jedi Knight II - Jedi OutcastÔäó",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "ARMA: Cold War Assault",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Blackwake", "windows": true, "mac": true, "linux": false },
+	{
+		"name": "Totally Accurate Battlegrounds",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Tiny and Big: Grandpa's Leftovers",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Borderlands 2: Headhunter 5: Son of Crawmerax",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "BioShockÔäó", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Arcana Heart 3 LOVE MAX!!!!!",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Black Desert Online",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Blacklight: Retribution",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Thomas Was Alone",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "BioShock Infinite",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Yu-Gi-Oh! Duel Links",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "BioShock┬« 2", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Double Fine Adventure: Ep16 - This Time it's Just for Love",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "The Long Dark", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Counter-Strike: Global Offensive",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Duck Game", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Warhammer┬« 40,000: Dawn of War┬« - Soulstorm",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Double Fine Adventure: Ep20 - We Did Our Job",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Claybook", "windows": true, "mac": false, "linux": false },
+	{ "name": "Warface", "windows": true, "mac": false, "linux": false },
+	{ "name": "Black Mesa", "windows": true, "mac": false, "linux": true },
+	{
+		"name": "Counter-Strike: Source",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Cortex Command", "windows": true, "mac": true, "linux": false },
+	{ "name": "Rampage Knights", "windows": true, "mac": true, "linux": false },
+	{ "name": "Rec Room", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Zero Caliber VR",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Half-Life 2", "windows": true, "mac": true, "linux": true },
+	{ "name": "Besiege", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Viscera Cleanup Detail: Shadow Warrior",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Full Throttle Remastered",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Warhammer┬« 40,000: Dawn of War┬« ÔÇô Winter Assault",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Evoland 2", "windows": true, "mac": true, "linux": false },
+	{
+		"name": "Chivalry: Medieval Warfare",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Arma 2: Operation Arrowhead",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Warhammer: Vermintide 2",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Escape Goat 2", "windows": true, "mac": true, "linux": true },
+	{ "name": "Robocraft", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Unreal Tournament 2004: Editor's Choice Edition",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "ENDLESSÔäó Space 2",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Counter-Strike: Condition Zero",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Just CauseÔäó 3: Multiplayer Mod",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Creed: Rise to GloryÔäó",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Miscreated", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Just Cause 2: Multiplayer Mod",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Half-Life: Opposing Force",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Lara Croft GO", "windows": true, "mac": true, "linux": true },
+
+	{ "name": "Headlander", "windows": true, "mac": true, "linux": false },
+	{ "name": "Job Simulator", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Surgeon Simulator: Experience Reality",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "DOOM", "windows": true, "mac": false, "linux": false },
+	{ "name": "Hover", "windows": true, "mac": true, "linux": true },
+	{ "name": "Garry's Mod", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "XCOM: Enemy Unknown",
+		"windows": true,
+		"mac": false,
+		"linux": true
+	},
+	{
+		"name": "Sid Meier's Civilization┬« III Complete",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "SteamWorld Heist", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Day of the Tentacle Remastered",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "PAYDAY 2", "windows": true, "mac": false, "linux": true },
+	{ "name": "Screencheat", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Arma II: DayZ Mod",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Borderlands 2 VR",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "DmC: Devil May Cry",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Stronghold Crusader 2",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Costume Quest", "windows": true, "mac": true, "linux": true },
+	{ "name": "Darwin Project", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Company of Heroes 2 - Ardennes Assault",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Prey", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Outlast: Whistleblower DLC",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "NieR:AutomataÔäó",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Plague Inc: Evolved",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "PlanetSide 2", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "NieR:AutomataÔäó - 3C3C1D119440927",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Double Fine Adventure: EP19 - Last Call",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Double Fine Adventure: Ep08 - Adventure Games Are Not Dead",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Day of Defeat: Source",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Destiny 2", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Double Fine Adventure: EP14 - I Think This is a Winner",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Borderlands: The Pre-Sequel",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Event[0]", "windows": true, "mac": true, "linux": false },
+	{ "name": "FOR HONORÔäó", "windows": true, "mac": false, "linux": false },
+	{ "name": "BRINK", "windows": true, "mac": false, "linux": false },
+	{ "name": "Cuphead", "windows": true, "mac": true, "linux": false },
+	{ "name": "Fistful of Frags", "windows": true, "mac": true, "linux": true },
+	{ "name": "Evolve Stage 2", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Fallout 2: A Post Nuclear Role Playing Game",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Far Cry 3 - Blood Dragon",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Wizard of Legend", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Deus Ex: Mankind Divided",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Nether: Resurrected",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Brutal Legend", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Counter-Strike: Condition Zero",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Fallout New Vegas: Courier's Stash",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Fallout Tactics: Brotherhood of Steel",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Half-Life: Blue Shift",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Fallout New Vegas: Honest Hearts",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "GUILTY GEAR XX ACCENT CORE PLUS R",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Golf With Your Friends - Caddy Pack",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Grow Up", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Half-Life 2: Deathmatch",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Firewatch", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Elite Dangerous",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+
+	{
+		"name": "Galactic Civilizations┬« II: Ultimate Edition",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "What Remains of Edith Finch",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Half-Life Deathmatch: Source",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "GNOG", "windows": true, "mac": true, "linux": false },
+	{ "name": "Half-Life", "windows": true, "mac": true, "linux": true },
+	{ "name": "F1 2018", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Half-Life 2: Episode Two",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Mafia III - Family Kick Back Pack",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Evoland Legendary Edition",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Metro 2033 Redux", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Fallout 3: Game of the Year Edition",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Warhammer┬« 40,000: Dawn of War┬« - Dark Crusade",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Half-Life 2: Episode One",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Cyber Battle 69",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Antichamber", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Borderlands 2: Headhunter 4: Wedding Day Massacre",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Borderlands 2: Headhunter 2: Wattle Gobbler",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Ring of Elysium",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Borderlands 2: Headhunter 1: Bloody Harvest",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Ricochet", "windows": true, "mac": true, "linux": true },
+	{ "name": "Robocraft", "windows": true, "mac": true, "linux": true },
+
+	{
+		"name": "SEGA Mega Drive and Genesis Classics",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Sid Meier's Civilization┬« VI: Vikings Scenario Pack",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Team Fortress 2", "windows": true, "mac": true, "linux": true },
+	{ "name": "Terraria", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Sniper Elite V2",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Sid Meier's Civilization V: Brave New World",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Sid MeierÔÇÖs Civilization┬« VI: Rise and Fall",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Star TrekÔäó: Bridge Crew",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Star Wars: Battlefront 2 (Classic, 2005)",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Skullgirls 2nd Encore",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Sanctum 2", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Stick Fight: The Game",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "STAR WARSÔäó Republic CommandoÔäó",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+
+	{
+		"name": "Swords of Gurrah",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Supreme Commander: Forged Alliance",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Spec Ops: The Line",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "State of Decay: YOSE",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Splitgate: Arena Warfare",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "STAR WARSÔäó: Squadrons",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "The Lab", "windows": true, "mac": false, "linux": false },
+	{ "name": "SteamWorld Heist", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Serious Sam VR: The Last Hope",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Takelings House Party",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Sniper Elite 3", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "The Jackbox Party Pack 3",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "The Bureau: XCOM Declassified",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "The Jackbox Party Pack",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "The Jackbox Party Pack 4",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "ðÆðÁð┤Ðîð╝ð░ð║ 3: ðöð©ð║ð░ÐÅ ð×Ðàð¥Ðéð░",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "The Forest", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Space Engineers",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+
+	{
+		"name": "The Witcher 3: Wild Hunt - New Finisher Animations",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "The Outer Worlds: Peril on Gorgon",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "The Darkness II", "windows": true, "mac": true, "linux": false },
+	{
+		"name": "The Outer Worlds Expansion Pass",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "The Elder Scrolls┬« Online",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Street Fighter X Tekken",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Stronghold Crusader 2",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "The Jackbox Party Pack 2",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Yu-Gi-Oh! Duel Links",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "The LEGO┬« NINJAGO┬« Movie Video Game",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "The Ship: Murder Party",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Saints Row IV", "windows": true, "mac": false, "linux": true },
+	{
+		"name": "Unreal Tournament 2004: Editor's Choice Edition",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Viscera Cleanup Detail: Shadow Warrior",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Tribes: Ascend", "windows": true, "mac": false, "linux": false },
+	{ "name": "Stardew Valley", "windows": true, "mac": true, "linux": true },
+	{ "name": "The Long Dark", "windows": true, "mac": true, "linux": true },
+	{ "name": "Risk of Rain 2", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Sid Meier's Civilization┬« III Complete",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Sid Meier's Civilization┬« VI: Australia Civilization & Scenario Pack",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Ring of Elysium",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Sid Meier's Civilization┬« VI: Persia and Macedon Civilization & Scenario Pack",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "Sid Meier's Civilization┬« VI: Poland Civilization & Scenario Pack",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "TurnSignal", "windows": true, "mac": false, "linux": false },
+
+	{
+		"name": "Team Fortress Classic",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Starbound", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Viscera Cleanup Detail: Santa's Rampage",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Zero-K", "windows": true, "mac": false, "linux": false },
+	{ "name": "Ziggurat", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Rivals of Aether",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Source Filmmaker",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Screencheat", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Total War: SHOGUN 2",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Rust", "windows": true, "mac": true, "linux": false },
+	{
+		"name": "Warhammer┬« 40,000: Dawn of War┬« - Soulstorm",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "The Witcher: Enhanced Edition Director's Cut",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{ "name": "War Thunder", "windows": true, "mac": true, "linux": true },
+	{ "name": "Until You Fall", "windows": true, "mac": false, "linux": false },
+	{ "name": "Satisfactory", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Viscera Cleanup Detail",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+
+	{
+		"name": "SCP: Secret Laboratory",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+
+	{
+		"name": "Sid Meier's Civilization┬« V",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Sairento VR", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Rocket League┬«",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "STAR WARSÔäó Jedi Knight II - Jedi OutcastÔäó",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{ "name": "Sanctum", "windows": true, "mac": true, "linux": false },
+	{ "name": "Super Meat Boy", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Red Orchestra 2: Heroes of Stalingrad with Rising Storm",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Surgeon Simulator: Experience Reality",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Sid MeierÔÇÖs Civilization┬« VI",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "SUPERHOT VR", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "STRIDERÔäó / Òé╣ÒâêÒâ®ÒéñÒâÇÒâ╝Úúøþ½£┬«",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+
+	{ "name": "Toribash", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "The Outer Worlds Original Soundtrack",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+
+	{
+		"name": "The Witcher 3: Wild Hunt - Expansion Pass",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Thomas Was Alone",
+		"windows": true,
+		"mac": true,
+		"linux": false
+	},
+	{
+		"name": "Thinking with Time Machine",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{
+		"name": "The Ship: Single Player",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Totally Accurate Battlegrounds",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "The Outer Worlds",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "THOTH", "windows": true, "mac": true, "linux": false },
+	{
+		"name": "The Walking Dead: Saints & Sinners",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Tower Wars", "windows": true, "mac": true, "linux": false },
+	{ "name": "Warframe", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Tiny and Big: Grandpa's Leftovers",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Unturned", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Ultimate Chicken Horse",
+		"windows": true,
+		"mac": true,
+		"linux": true
+	},
+	{ "name": "Tropico 4", "windows": true, "mac": false, "linux": false },
+
+	{ "name": "Tumblestone", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Warhammer┬« 40,000: Dawn of War┬« - Dark Crusade",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "This War of Mine", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "Warhammer: Vermintide 2",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Zero Caliber VR",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Warhammer┬« 40,000: Dawn of War┬« - Game of the Year Edition",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six┬« Siege",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Warface", "windows": true, "mac": false, "linux": false },
+	{ "name": "VRChat", "windows": true, "mac": false, "linux": false },
+	{ "name": "Wizard of Legend", "windows": true, "mac": true, "linux": true },
+	{ "name": "Windward", "windows": true, "mac": true, "linux": true },
+	{
+		"name": "What Remains of Edith Finch",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{ "name": "Yakuza 0", "windows": true, "mac": false, "linux": false },
+	{
+		"name": "Warhammer┬« 40,000: Dawn of War┬« ÔÇô Winter Assault",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	},
+	{
+		"name": "XCOM: Enemy Unknown",
+		"windows": true,
+		"mac": false,
+		"linux": true
+	},
+	{
+		"name": "Warhammer 40,000: Space Marine",
+		"windows": true,
+		"mac": false,
+		"linux": false
+	}
+]
